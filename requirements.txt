@@ -1,0 +1,6 @@
+# Asterisc
+# Ultralytics requirements
+# Usage: pip install -r requirements.txt
+# pip install ultralytics
+# Base ----------------------------------------
+ultralytics
